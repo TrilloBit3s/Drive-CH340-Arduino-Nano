@@ -1,0 +1,13 @@
+Nesta pasta tem 3 Arquivos, voce pode instalar qualquer um, apenas um, no caso, o que representa seu windows.
+
+Se seu computador for Windows 10 instale apenas o CH341SER_WIN10
+Se seu computador for Windows 11 instale o DRIVER CH340 WIN11
+
+ ou se tiver duvidas instale o CH34x_Install_Windows_v3_4
+
+OBS: Como fazer?
+ 
+	Clique com o botão direito em cima do arquivo e faça a descompactação, após isso clique em cima
+	do arquivo que tenha o nome EXE ou Aplicativo. Ao fazer isso voce vai clicar em INSTALL e pronto.
+
+
